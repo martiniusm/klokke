@@ -1,0 +1,2 @@
+# klokke
+Klokke for norge
